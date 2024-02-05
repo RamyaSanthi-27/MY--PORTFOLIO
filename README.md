@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://github.com/RamyaSanthi-27/MY--PORTFOLIO---react/master/src/assets/port.png)
+![Portfolio](https://github.com/RamyaSanthi-27/MY--PORTFOLIO---react/main/src/assets/port.png)
 
 ## Built With
 
